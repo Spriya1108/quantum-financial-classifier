@@ -16,5 +16,4 @@ This project benchmarks the performance of a **Quantum Support Vector Classifier
 - **Result:** Achieved 70% accuracy with QSVC in a noise-simulated environment (Aer Simulator).
 
 ## Visualization
-*(If you uploaded the png, you can link it here, otherwise the Notebook shows the graph)*
-[View the Notebook to see the Decision Boundary Graph](./Your_Notebook_Name.ipynb)
+[View the Notebook to see the Decision Boundary Graph](./quantum_loan_classifier_py.ipynb)
